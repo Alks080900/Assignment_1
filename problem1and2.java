@@ -3,6 +3,7 @@ package Assignment_1;
 --sample new text here--
     --added text here on github--
 --Added text inside alex branch--
+--Added test inside alex branch 2--
 public class problem1and2 {
     public static void main(String[] args) {
         String emojieWavingHand = "\uD83D\uDC4B";
