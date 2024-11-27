@@ -1,5 +1,6 @@
 package Assignment_1;
 
+--sample new text here--
 public class problem1and2 {
     public static void main(String[] args) {
         String emojieWavingHand = "\uD83D\uDC4B";
